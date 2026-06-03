@@ -1,2 +1,2 @@
-- [documentation/](documentation/) is for testing and experiments.
+- [documentation/](documentation/) is where I experiment things out.
 - [task1.ipynb](task1.ipynb) contains Task 1.
